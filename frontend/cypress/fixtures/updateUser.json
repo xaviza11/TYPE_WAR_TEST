@@ -1,0 +1,6 @@
+{ 
+"access_token": "string", 
+"name": "John Doe", 
+"type": "user", 
+"expirationDate": "string"
+}

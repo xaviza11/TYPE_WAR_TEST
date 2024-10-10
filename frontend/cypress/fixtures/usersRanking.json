@@ -1,0 +1,33 @@
+[
+	{
+		"name": "juancito",
+		"ppsAvg": 2.9,
+		"errorAvg": 0,
+		"durationAvg": 6.4
+	},
+    {
+		"name": "pepito",
+		"ppsAvg": 2.3,
+		"errorAvg": 0,
+		"durationAvg": 6.439024390243903
+	},
+    {
+		"name": "johnDoe",
+		"ppsAvg": 1.9,
+		"errorAvg": 0,
+		"durationAvg": 6.439024390243903
+	},
+    {
+		"name": "alberto",
+		"ppsAvg": 2.3,
+		"errorAvg": 0,
+		"durationAvg": 6.439024390243903
+	},
+
+    {
+		"name": "admin",
+		"ppsAvg": 2.4,
+		"errorAvg": 0,
+		"durationAvg": 6.439024390243903
+	}
+]
