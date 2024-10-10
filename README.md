@@ -1,1 +1,1 @@
-This repository have tests for backend and fronted of TypeWat app
+"This repository has tests for the backend and frontend of the TypeWar app."
