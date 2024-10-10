@@ -1,0 +1,1 @@
+This repository have tests for backend and fronted of TypeWat app
